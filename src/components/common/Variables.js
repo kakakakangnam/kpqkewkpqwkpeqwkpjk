@@ -1,0 +1,30 @@
+export const stainless = {
+  "watergutter": "물홈통",
+  "parapetring": "청소용 고리",
+  "cap": "스텐 캡",
+  "ball": "스텐 볼",
+  "pipeconnect": "파이프 연결",
+  "elbow": "스텐 엘보",
+  "endcap": "스텐 마구리",
+  "washer": "스텐 와셔",
+  "handrail": "핸드레일",
+  "handle": "손잡이",
+  "gates": "지차대",
+  "bicycle": "자전거 보관대",
+  "flagrod": "국기봉",
+  "shutter": "셔터",
+};
+
+export const sash = {
+  "silicon": "실리콘",
+  "stopper": "도어 스토퍼",
+  "hinge": "경첩, 힌지",
+  "doorlock": "도어록",
+  "handrail": "핸드 레일",
+  "glasssupport": "유리받침",
+  "doorrail": "도어 레일",
+  "steelgrating": "스틸 그레이팅",
+  "doorcatcher": "빠찌링",
+  "doorseal": "도어씰",
+  "mailbox": "우편함",
+};
