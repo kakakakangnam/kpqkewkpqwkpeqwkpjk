@@ -6,6 +6,7 @@ import FiredoorPage from './pages/FiredoorPage';
 import StainlessPage from './pages/StainlessPage';
 import SashPage from './pages/SashPage';
 import LexanPage from './pages/LexanPage';
+import DocumentPage from './pages/DocumentPage';
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Route path='/stainless/:kind' component={StainlessPage} />
       <Route path='/sash/:kind' component={SashPage} />
       <Route path='/lexan' component={LexanPage} />
+      <Route path='/document' component={DocumentPage} />
     </Route>
   );
 };

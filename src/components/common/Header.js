@@ -147,6 +147,9 @@ const Header = () => {
                 <SubMenu to='/lexan'>렉산</SubMenu>
             </Category>
             <Category>
+                <SubMenu to='/document'>자료실</SubMenu>
+            </Category>
+            <Category>
               <SubMenu to='/location'>오시는 길</SubMenu>
             </Category>
           </Categories>
