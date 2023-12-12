@@ -10,7 +10,7 @@ const DocumentComponentBlock = styled.div`
 `;
 
 const ImageWrapper = styled.img`
-  max-width: 90%;
+  max-width: 1000px;
   height: auto;
 `;
 
